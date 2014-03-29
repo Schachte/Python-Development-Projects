@@ -23,3 +23,4 @@ if len(user_input) > 0 and user_input.isalpha(): #First conditional (Entered min
 else:
 
 	print 'You need to enter a valid string.' #Else conditional that fails to meet previous conditions
+
